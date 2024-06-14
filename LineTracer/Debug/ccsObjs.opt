@@ -1,0 +1,9 @@
+"./Clock.obj"
+"./basic_function.obj"
+"./graph_structure.obj"
+"./main.obj"
+"./motor_move.obj"
+"./startup_msp432p401r_ccs.obj"
+"./system_msp432p401r.obj"
+"../msp432p401r.cmd"
+-llibc.a
